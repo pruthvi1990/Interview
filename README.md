@@ -8,3 +8,4 @@ Feedback on Circular buffer implementation
 - make errorstring static
 - fix exception code in Deque 
 - comments to update read_index and write_index
+- fix memory leak
